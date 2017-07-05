@@ -1,0 +1,36 @@
+
+.contenedor{
+  width: 960px;
+  margin: auto;
+}
+.Nombre {
+  text-align: center;
+  font: normal normal normal 80px/1.2em 'noticia text',serif;
+  color: #4D4D4D;
+}
+.emoji {
+  display: block;
+  margin: auto;
+}
+body {
+  font-family: open sans;
+  font-size: 11pt;
+  background-color: lightgrey;
+}
+
+element.style {
+    width: 980px;
+    position: absolute;
+    top: 0px;
+    height: 150px;
+    left: 0px;
+}
+form fieldset {
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+a: hover {
+  color: lightblue
+}
